@@ -1,2 +1,5 @@
 # Hello-wolrd
-Just another repository
+
+
+I'm a student in java;
+I want learn in Github;
